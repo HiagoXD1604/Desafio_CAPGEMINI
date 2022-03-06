@@ -1,4 +1,4 @@
-# Desafio_CAPGEMINI
+# Desafio CAPGEMINI
 
 ### 🔧 Instalação
 
